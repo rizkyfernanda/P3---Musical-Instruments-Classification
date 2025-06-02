@@ -1,8 +1,3 @@
-# Dataset Source
-Gegenava, N. (2022). Musical Instruments - A Global Collection of Iconic Musical Instruments for Image Classification. Kaggle. https://www.kaggle.com/datasets/nikolasgegenava/music-instruments (Accessed on May 26, 2025)
-
-License: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
 # NN model to classify pictures of musical instruments
 This is a repository to train the NN model using Conv2D and MaxPooling2D to recognize 10 types of musical instruments as shown below. This model might have more room for improvement as the model currently has an overall accuracy of **55%** after evaluation.
 
@@ -34,3 +29,8 @@ This is a repository to train the NN model using Conv2D and MaxPooling2D to reco
 
 ## Actual vs predicted - confusion matrix
 ![Confusion matrix](https://github.com/rizkyfernanda/P3---Musical-Instruments-Classification/blob/main/graphs/confusion_matrix.png)
+
+# Dataset Source
+Gegenava, N. (2022). Musical Instruments - A Global Collection of Iconic Musical Instruments for Image Classification. Kaggle. https://www.kaggle.com/datasets/nikolasgegenava/music-instruments (Accessed on May 26, 2025)
+
+License: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
